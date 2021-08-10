@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aymenbahri
-- 👀 I’m interested in AI ,Machine Learning ,Power Electronics,FEA,Software Development .
+- 👀 I’m interested in AI ,Machine Learning ,Power Electronics,FEA & Software Development .
 - 🌱 I’m currently learning Web Development with Django
 
 
